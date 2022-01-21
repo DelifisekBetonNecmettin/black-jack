@@ -2,7 +2,7 @@
 A Simple Black Jack Card Game that developed with **Java Awt** and **Java Swing**.
 # Built With
 - Java
-- JavaSwing
+- Java Swing
 - Java Awt
 # Authors
 - Abdusselam Koç [Profile](https://github.com/betonn).
