@@ -1,2 +1,2 @@
 # black-jack
-a simple black jack game that developed with java
+A Simple Black Jack Card Game that developed with Java Awt and Java Swing.
